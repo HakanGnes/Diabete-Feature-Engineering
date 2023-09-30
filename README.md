@@ -8,7 +8,7 @@ It is part of a large data set held at the National Institutes of Diabetes-Diges
 Data used for diabetes research conducted on Pima Indian women aged 21 and over living in the city of Phoenix, the 5th largest city in the State of Arizona in the USA. 
 It consists of 768 observations and 8 numerical independent variables. The target variable is specified as "outcome"; 1 indicates a positive diabetes test result, and 0 indicates a negative diabetes test result.
 
-##Variables:
+## Variables:
 Pregnancies: Number of pregnancies
 
 Glucose: Glucose
